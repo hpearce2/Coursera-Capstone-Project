@@ -1,3 +1,6 @@
 # Coursera-Capstone-Project
 
- Use the Updated version of Future Technology Trend 
+Dashboards
+- Current Technology Use
+- Demographics
+- Future Technology Trend
